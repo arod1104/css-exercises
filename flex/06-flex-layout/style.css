@@ -53,9 +53,12 @@ li {
   gap: 20px;
 }
 
+button {
+  padding: 10px 20px;
+}
+
 .buttons {
   display: flex;
-  height: 40px;
   gap: 16px;
 }
 
